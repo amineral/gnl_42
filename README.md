@@ -1,4 +1,4 @@
-# gnl_42
+# Get_Next_Line
 The topic of this is to write a function that will be return only next string from file from each call.
 
 This should work with buffer of any size.
